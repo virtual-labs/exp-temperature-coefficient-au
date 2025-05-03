@@ -28,14 +28,14 @@ carey foster bridge, unknown low resistor, Resistance box, Lead accumulator, joc
 3. Introduce the resistance and move jockey to get balancing length l<sub>1</sub>.
 4. Reverse button to interchange unknown resistance 1 with Fractional resistor.
 5. Move jockey to get balancing length l<sub>2</sub>.
-6. Unknown resistance value is found using the equation 3
+6. Unknown resistance value is found using the equation 
    
   $$X=R+\rho(l_{1}-l_{2})$$
   
-8. Repeat the experiment for different temperature t1, t2...and note the corresponding resistance X1, X2...
-9. Temperature coefficient of resistance is found using equation
+7. Repeat the experiment for different temperature t1, t2...and note the corresponding resistance X1, X2...
+8. Temperature coefficient of resistance is found using equation
 
   $$\alpha=\frac{X_{2}-X_{1}}{X_{1}t_{2}-X_{2}t_{1}}$$
   
-10. Repeat the experiment for unknown resistance 2.
-11. A graph is plotted between values of X and t , which gives a straight line, whose slope is equal to α. 
+9. Repeat the experiment for unknown resistance 2.
+10. A graph is plotted between values of X and t , which gives a straight line, whose slope is equal to α. 
