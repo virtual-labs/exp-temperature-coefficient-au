@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the principle behind Carey Foster Bridge?",
+      "answers": {
+        "a": "Wheatstone's principle",
+        "b": "Bernoulli's principle",
+        "c": "Both (a) and (b",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the relation connecting resistance and resistivity?",
+      "answers": {
+        "a": "R=ρl/A",
+        "b": "R=ρA/l",
+        "c": "ρ=RAl",
+        "d": "ρ=Al/R"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
