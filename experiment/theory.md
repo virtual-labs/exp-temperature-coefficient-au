@@ -43,7 +43,7 @@ If X1 and X2 are the resistance of a coil at temperatures t1<sup>o</sup>c and t2
 
 $$\alpha=\frac{X_{2}-X_{1}}{X_{1}t_{2}-X_{2}t_{1}}$$
 
-Also, if X<sub>0</sub> and X<sub>100</sub> are the resistance of the coil at 0<sup>o</sup>c and 100<sup>o</sup>c,
+Also, if $X_{0}$ and $X_{100}$ are the resistance of the coil at 0<sup>o</sup>c and 100<sup>o</sup>c,
 
 $$\alpha=\frac{X_{100}-X_{0}}{X_{0}\times 100}$$
 
