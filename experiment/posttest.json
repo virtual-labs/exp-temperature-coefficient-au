@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Carey Foster Bridge is used to measure",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "High resistance",
+        "b": "Low resistance",
+        "c": "E.M.F",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "As the temperature increases, resistance",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Decreases",
+        "b": "Increases",
+        "c": "No change",
+        "d": "First increases then decreases"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "In Wheatstone's bridge, P = 10 ohm, Q = 20 ohm R = 5 ohm, then value of X is",
+      "answers": {
+        "a": "15",
+        "b": "5",
+        "c": "10",
+        "d": "20"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
